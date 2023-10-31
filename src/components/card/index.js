@@ -27,7 +27,7 @@ export default function Card({ children, ...restProps }) {
   return (
     <FeatureContext.Provider value={{ showFeature, setShowFeature, itemFeature, setItemFeature }}>
       <Container {...restProps}>{children}</Container>
-    </FeatureContext.Provider>
+    </FeatureContext.Provider> /* Feature lists */
   );
 }
 
