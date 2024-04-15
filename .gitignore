@@ -7,7 +7,7 @@ src/lib/firebase.js
 .pnp.js 
 
 # testing
-/coverage
+/coverage 
 
 # production
 /build 
