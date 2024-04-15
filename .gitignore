@@ -10,7 +10,7 @@ src/lib/firebase.js
 /coverage
 
 # production
-/build
+/build 
  
 # misc
 .DS_Store
